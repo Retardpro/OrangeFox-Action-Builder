@@ -36,7 +36,7 @@ on:
       BUILD_TARGET:
         description: 'Specify your Build Target'
         required: true
-        default: 'vendorboot'
+        default: 'recovery'
         type: choice
         options:
         - boot
