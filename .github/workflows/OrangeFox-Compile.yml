@@ -24,7 +24,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
-        default: 'twrp-12.0'
+        default: 'main'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
